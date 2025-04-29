@@ -1,5 +1,5 @@
 # Review Paper
--리뷰한 논문 정리
+**리뷰한 논문 정리**
 
 [x-adv.pptx](https://github.com/user-attachments/files/19964074/x-adv.pptx)  
 [Vit 논문 정리.pptx](https://github.com/user-attachments/files/19964073/Vit.pptx)  
@@ -20,9 +20,8 @@
 [AdvBench.pptx](https://github.com/user-attachments/files/19964044/AdvBench.pptx)  
 
 
-# Paper Implementation
-- 구현한 논문들
-  
+# Paper Implementation  
+**구현한 논문들**  
 - Transformer (Attention is all you need)
 - X-ADV
 - Synthesizing Robust Adversarial Examples

@@ -1,5 +1,5 @@
 # Review Paper  
-## The paper ㅑ presented at the seminar in swlab
+## The paper I presented at the seminar in swlab
 
 **BenchMark**  
 1. SafetyBench: Evaluating the Safety of Large Language Models [Saftey Bench.pptx](https://github.com/user-attachments/files/19964069/Saftey.Bench.pptx)
@@ -27,8 +27,7 @@
 1. AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (ICLR 2021) [Vit 논문 정리.pptx](https://github.com/user-attachments/files/19964073/Vit.pptx)   
 2. Attention is all you need [Transformer.pptx](https://github.com/user-attachments/files/19964072/Transformer.pptx)
 
-# Paper Implementation  
-**구현한 논문들**  
+# Paper Implementation    
 - Transformer (Attention is all you need)
 - X-ADV
 - Synthesizing Robust Adversarial Examples

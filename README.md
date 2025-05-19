@@ -20,8 +20,8 @@
 9. DPatch: An Adversarial Patch Attack on Object Detectors [Dpatch.pptx](https://github.com/user-attachments/files/19964054/Dpatch.pptx)  
 10. DeepFool: A Simple and Accurate Method to Fool Deep Neural Networks (CVPR 2016) [Deepfool.pptx](https://github.com/user-attachments/files/19964050/Deepfool.pptx)  
 11. Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt [BAP.pptx](https://github.com/user-attachments/files/19964049/BAP.pptx)  
-12. Assistive Signals for Deep Neural Network Classiﬁers (CVPR 2021) [Assistive Signals for Deep Neural Network Classiﬁers.pptx](https://github.com/user-attachments/files/19964048/Assistive.Signals.for.Deep.Neural.Network.Classi.ers.pptx)  
-13.Adversarial Patch [Adversarial Patch.pptx](https://github.com/user-attachments/files/19964046/Adversarial.Patch.pptx)  
+12. Assistive Signals for Deep Neural Network Classiﬁers (CVPR 2021) [Assistive Signals for Deep Neural Network Classiﬁers.pptx](https://github.com/user-attachments/files/19964048/Assistive.Signals.for.Deep.Neural.Network.Classi.ers.pptx)
+13. Adversarial Patch [Adversarial Patch.pptx](https://github.com/user-attachments/files/19964046/Adversarial.Patch.pptx)  
 
 **Deeplearning**  
 1. AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (ICLR 2021) [Vit 논문 정리.pptx](https://github.com/user-attachments/files/19964073/Vit.pptx)   
